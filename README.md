@@ -1,13 +1,11 @@
 # 梅静 / Mei Jing 
 
 <div align="center">
-
-**[中文](#-中文简历) · [English](#-english-resume) · [日本語](#-日本語履歴書)**
-
+  <a href="#cn"><b>中文</b></a> · <a href="#en"><b>English</b></a> · <a href="#ja"><b>日本語</b></a>
 </div>
 
 ---
-
+<a id="cn"></a>
 # 🇨🇳 中文简历
 
 <div align="center">
@@ -102,7 +100,7 @@
 
 ---
 ---
-
+<a id="en"></a>
 # 🇺🇸 English Resume
 
 <div align="center">
@@ -204,7 +202,7 @@ Apr 2007 – Jul 2009  Foxconn Technology                            Software En
 
 ---
 ---
-
+<a id="ja"></a>
 # 🇯🇵 日本語履歴書
 
 <div align="center">
