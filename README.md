@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[中文](#-中文简历) · [English](#-english-resume) · [日本語](#-日本語履歴書)
+**[中文](#-中文简历) · [English](#-english-resume) · [日本語](#-日本語履歴書)**
 
 </div>
 
